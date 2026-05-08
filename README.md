@@ -43,8 +43,11 @@ I am a fresh Computer Science graduate and an AI enthusiast dedicated to buildin
 #### 🤖 [ShopSync: Smart Product Matching](https://github.com/Ali-Hamza852/ShopSync)
 An AI-powered engine that uses advanced embeddings to match products across different e-commerce platforms with high precision.
 
-#### 🏥 [Med-RAG Pipeline](https://github.com/Ali-Hamza852/Med-RAG)
-Implementation of a Retrieval-Augmented Generation pipeline designed for medical symptom prediction and context-aware health insights.
+#### 🎨 [Anime Face Generator](https://huggingface.co/spaces/AliHamza852/gan-stability-anime)
+An image synthesis project leveraging Generative Adversarial Networks (GANs) to generate high-quality anime faces, with a focus on training stability and hyperparameter optimization.
+
+#### 👁️ [Structura-VL](https://huggingface.co/spaces/AliHamza852/Structura-VL)
+A sophisticated Vision-Language space hosted on Hugging Face, focused on visual structural analysis and bridging the gap between raw pixel data and intelligent structural reasoning.
 
 ---
 
