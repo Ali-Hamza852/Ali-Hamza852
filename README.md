@@ -46,9 +46,6 @@ An AI-powered engine that uses advanced embeddings to match products across diff
 #### 🏥 [Med-RAG Pipeline](https://github.com/Ali-Hamza852/Med-RAG)
 Implementation of a Retrieval-Augmented Generation pipeline designed for medical symptom prediction and context-aware health insights.
 
-#### 🔐 [DES Implementation](https://github.com/Ali-Hamza852/DES-Cryptography)
-A deep dive into symmetric-key cryptography, implementing the Data Encryption Standard (DES) from scratch to explore bit-level manipulations.
-
 ---
 
 ### 📫 Connect with Me
