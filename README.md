@@ -1,16 +1,65 @@
-## Hi there 👋
+# Hi there, I'm Ali Hamza 👋 
 
-<!--
-**Ali-Hamza852/Ali-Hamza852** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=CS+Graduate+@+FAST-NUCES;Gen+AI+%26+LLM+Specialist;Full+Stack+Python+Developer" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+I am a fresh Computer Science graduate and an AI enthusiast dedicated to building intelligent systems that solve real-world problems. My expertise lies in bridging the gap between complex Machine Learning models and scalable software solutions.
+
+- 🔭 **Currently focusing on:** Advanced Large Language Models (LLMs) and Image Synthesis.
+- 🌱 **Learning:** Deepening my knowledge in RAG (Retrieval-Augmented Generation) and AI Agentic Workflows.
+- 🎓 **Education:** Recently graduated from National University of Computer and Emerging Sciences (FAST-NUCES).
+- ⚡ **Passions:** I enjoy optimizing machine learning pipelines for maximum efficiency and minimal code footprint.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+| Category | Skills |
+| :--- | :--- |
+| **AI / ML** | PyTorch, Keras, Scikit-learn, LLMs, Image Captioning, GANs |
+| **Languages** | Python, C++, SQL, JavaScript |
+| **Web & Backend** | MERN Stack, FastAPI, Flask, Web Scraping (Crawl4AI) |
+| **Cloud & DevOps** | Snowflake, GitHub Actions, Vercel, Heroku, Supabase |
+| **Cybersecurity** | Cryptography (DES), Network Security, Kali Linux |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Hamza852&show_icons=true&theme=tokyonight&count_private=true" alt="Ali's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Hamza852&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
+</p>
+
+---
+
+### 🌟 Featured Projects
+
+#### 🤖 [ShopSync: Smart Product Matching](https://github.com/Ali-Hamza852/ShopSync)
+An AI-powered engine that uses advanced embeddings to match products across different e-commerce platforms with high precision.
+
+#### 🏥 [Med-RAG Pipeline](https://github.com/Ali-Hamza852/Med-RAG)
+Implementation of a Retrieval-Augmented Generation pipeline designed for medical symptom prediction and context-aware health insights.
+
+#### 🔐 [DES Implementation](https://github.com/Ali-Hamza852/DES-Cryptography)
+A deep dive into symmetric-key cryptography, implementing the Data Encryption Standard (DES) from scratch to explore bit-level manipulations.
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/your-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ali Hamza" height="30" width="40" /></a>
+<a href="mailto:your-email@example.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" /></a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Optimizing the world, one line of Python at a time.”</i>
+</p>
